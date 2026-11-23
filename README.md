@@ -29,6 +29,24 @@ fashison:
     <p>Men's Wear | Women's Wear | Kids Wear</p>
 </body>
 </html>
+header:
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Mall Header</title>
+</head>
+<body bgcolor="#171717" text="white">
+  <center>
+    <br>
+    <font face="Arial" size="5" color="#54c8ff"><b>MONISH MALL</b></font>
+    &nbsp;&nbsp;&nbsp;
+    <font face="Arial" size="3" color="#cccccc">Mall Directory</font>
+    <br><br>
+    <font face="Arial" size="2" color="#aaaaaa">V MONISH &nbsp; | &nbsp; Register Number: 212225220066</font>
+  </center>
+</body>
+</html>
+
 
 ~~~
 ###Output:
