@@ -1,4 +1,4 @@
-###Program:
+#Program:
 ~~~
 cinema:
 
@@ -49,6 +49,8 @@ header:
 
 
 ~~~
-###Output:
-<img width="1202" height="572" alt="image" src="https://github.com/user-attachments/assets/e13f312a-fd8a-4d02-a367-49499e9843b7" />
+#Output:
+
+<img width="1216" height="452" alt="image" src="https://github.com/user-attachments/assets/69611e6f-0ee7-4e41-b87a-3c0a42d2a7fd" />
+
 
